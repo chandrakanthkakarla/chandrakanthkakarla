@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrakanthkakarla
 - 👀 I’m interested in ... Learning 
-- 🌱 I’m currently learning ... Web development
+- 🌱 I’m currently learning ...  CCNA
 - 💞️ I’m looking to collaborate with teammates
 - 📫 How to reach me ... chandrakanth.kakarla96@gmaiil.com
 
